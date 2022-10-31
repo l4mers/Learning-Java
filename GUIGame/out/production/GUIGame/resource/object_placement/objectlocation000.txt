@@ -1,0 +1,8 @@
+key-20-10
+key-23-40
+key-37-7
+door-7-8
+door-5-11
+door-5-17
+treasure-7-6
+food-44-20
