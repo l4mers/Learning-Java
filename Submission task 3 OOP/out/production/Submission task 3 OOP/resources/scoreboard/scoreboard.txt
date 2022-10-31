@@ -1,0 +1,15 @@
+Gustav
+Minutes: 2.5
+Clicks: 49
+Date: 2022-10-30
+*
+Andreas
+Minutes: 2.3
+Clicks: 51
+Date: 2022-10-29
+*
+asd
+Minutes: 0.4
+Clicks: 1
+Date: 2022-10-31
+*
