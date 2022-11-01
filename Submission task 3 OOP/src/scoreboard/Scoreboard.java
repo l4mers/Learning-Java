@@ -82,10 +82,10 @@ public class Scoreboard {
     public String sortList(){
         if (sortOrder){
             highScoreList.sort(Comparator.comparingDouble(HighScore::time));
-            return "Sort by clicks";
+            return "<html><font size='+1' face='x12y16pxMaruMonica'>Sort by clicks</font></html>";
         } else{
             highScoreList.sort(Comparator.comparingInt(HighScore::clicks));
-            return "Sort by time";
+            return "<html><font size='+1' face='x12y16pxMaruMonica'>Sort by time</font></html>";
         }
     }
     public void setPlayerName(){

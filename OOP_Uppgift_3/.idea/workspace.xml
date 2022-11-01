@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8364575-d10f-465e-a31b-fb39a5526207" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/Submission task 3 OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/main/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/main/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/resources/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/resources/scoreboard/scoreboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/scoreboard/Scoreboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/scoreboard/Scoreboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/OOP_Uppgift_3/scoreboard/scoreboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/font/x12y16pxMaruMonica.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/ball/badboll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/j.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/images/p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/main/ButtonHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/main/GameMaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/font/x12y16pxMaruMonica.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/ball/badboll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/j.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/images/p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/scoreboard/scoreboard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/sound/cheat.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/sound/click.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/sound/move.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/sound/music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/sound/victory.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/scoreboard/Scoreboard$HighScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/scoreboard/Scoreboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/scoreboard/scoreboard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/Sound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/cheat.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/click.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/move.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/sound/victory.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/tiles/GameTile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/tiles/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/resources/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/resources/scoreboard/scoreboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/scoreboard/Scoreboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/scoreboard/Scoreboard.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GvFjLXcoNJlbr0Z1BQgC3Qcio2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ItsAme/Nextcloud/Nackademin Gustav/Github/Learning-Java/Submission task 3 OOP"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Submission task 2 OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8364575-d10f-465e-a31b-fb39a5526207" name="Changes" comment="" />
+      <created>1667261284912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667261284912</updated>
+      <workItem from="1667261286069" duration="56000" />
+      <workItem from="1667261566116" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
