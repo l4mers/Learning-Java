@@ -67,7 +67,7 @@ public class GamePanel extends JPanel {
         gameState(startScreenState);
         gm = new GameMaster(this);
         tm = new TileManager(this);
-        //sound.playMusic();
+        sound.playMusic();
 
 
     }
