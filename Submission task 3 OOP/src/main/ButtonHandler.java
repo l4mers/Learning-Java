@@ -108,14 +108,18 @@ public class ButtonHandler implements ActionListener, KeyListener {
 
     private boolean inputPlayerName() {
         String playerInputName = JOptionPane.showInputDialog("Who's playing?");
-        if (gp.scoreboard.setPlayerName(playerInputName)) {
-            return true;
-        } else {
-            JOptionPane.showMessageDialog(null, "Invalid name!");
+        if(playerInputName != null){
+            if (gp.scoreboard.setPlayerName(playerInputName)) {
+                return true;
+            } else {
+                JOptionPane.showMessageDialog(null, "Invalid name!");
+                return false;
+            }
+        }
+        else {
             return false;
         }
     }
-
     private void toggleMusic() {
         if (on) {
             gp.sound.stop();
