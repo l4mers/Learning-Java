@@ -98,7 +98,6 @@ public class ButtonHandler implements ActionListener, KeyListener {
 
     public void startButton() {
         gp.sound.playSoundEffect(3);
-        //ta in namnet och skicka in i valideringsmetoden
         if (inputPlayerName()) {
             gp.gm.shuffleGameTiles();
             gp.gm.dealGameTiles();

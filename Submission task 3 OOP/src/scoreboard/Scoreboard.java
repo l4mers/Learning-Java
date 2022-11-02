@@ -25,7 +25,7 @@ public class Scoreboard {
         @Override
         public String toString() {
             return name +
-                    "\nMinutes: " + time +
+                    "\nTime: " + time +
                     "\nClicks: " + clicks +
                     "\nDate: " + date;
         }
@@ -67,7 +67,7 @@ public class Scoreboard {
 
             switch (count) {
                 case 0 -> name = line;
-                case 1 -> min = Double.parseDouble(line.replace("Minutes: ", ""));
+                case 1 -> min = Double.parseDouble(line.replace("Time: ", ""));
                 case 2 -> clicks = Integer.parseInt(line.replace("Clicks: ", ""));
                 case 3 ->
                         highScoreList.add(new HighScore(name, min, clicks, LocalDate.parse(line.replace("Date: ", ""))));

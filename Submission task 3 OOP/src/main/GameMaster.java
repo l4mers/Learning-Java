@@ -26,7 +26,10 @@ public class GameMaster {
             gp.tm.tileList.get(i).setCurrentPos(intList.get(i));
         }
         if(!checkIfSolvable()){shuffleGameTiles();}
-        else{start = System.nanoTime();}
+        else{
+            clicks = 0;
+            start = System.nanoTime();
+        }
     }
 
     public void dealGameTiles() {
@@ -64,16 +67,21 @@ public class GameMaster {
         final ArrayList<Integer> evenRow = new ArrayList<>(List.of(5, 6, 7, 8, 13, 14, 15, 16));
         int inversionCount = inversionCount();
         if (evenRow.contains(gp.tm.tileList.get(15).getCurrentPos())){
-            return (inversionCount & 1) != 0;
+            if((inversionCount % 2) != 0){
+                return true;
+            }
         } else {
-            return (inversionCount & 1) == 0;
+            if((inversionCount % 2) == 0){
+                return true;
+            }
         }
+        return false;
     }
 
     //Hur många inversions finns det
     private int inversionCount(){
         int inversionCount = 0;
-        for (int i = 0; i < gp.tm.tileList.size(); i++) {
+        for (int i = 0; i < gp.tm.tileList.size() - 1; i++) {
             for (int j = 0; j < gp.tm.tileList.size(); j++) {
                 if (i < j){
                     if (gp.tm.tileList.get(i).getCurrentPos() > gp.tm.tileList.get(j).getCurrentPos()){
@@ -82,6 +90,7 @@ public class GameMaster {
                 }
             }
         }
+        System.out.println(inversionCount);
         return inversionCount;
     }
 
