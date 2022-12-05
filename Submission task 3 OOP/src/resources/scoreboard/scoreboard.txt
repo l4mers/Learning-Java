@@ -13,3 +13,8 @@ Time: 2.39
 Clicks: 203
 Date: 2022-11-01
 *
+gustav
+Time: 0.15
+Clicks: 1
+Date: 2022-11-17
+*

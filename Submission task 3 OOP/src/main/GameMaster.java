@@ -90,7 +90,6 @@ public class GameMaster {
                 }
             }
         }
-        System.out.println(inversionCount);
         return inversionCount;
     }
 
