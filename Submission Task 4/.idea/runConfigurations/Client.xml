@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Client" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="client.Client" />
-    <module name="Submission Task 4 OOP" />
+    <module name="Quiz-Inl-mning" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="client.*" />
