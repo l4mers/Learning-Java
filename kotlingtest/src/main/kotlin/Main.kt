@@ -43,7 +43,7 @@ fun main(args: Array<String>) {
 
 //    //VG UPPGIFT2
 //    val tomte = Tomten()
-//    tomte.getNisse(tomte, "Räven")
+//    tomte.getUnderlings(tomte, "Skumtomten").forEach { println(it) }
 
 //    //Day 4 min lösning
 //    val ca = CleaningAssignment(Files.lines(Paths.get("src/main/kotlin/day4/input.txt")).toList())
