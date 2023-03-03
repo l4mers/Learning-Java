@@ -1,7 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc7df3d0-f334-4b26-ac6a-944facdd9158" name="Changes" comment="" />
+    <list default="true" id="bc7df3d0-f334-4b26-ac6a-944facdd9158" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/OOAD-Projektarbete.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/UFO_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/big_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/crash_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/factory/LaserFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/factory/ObstacleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/homebackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/inputhandlers/InputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/laser_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/CollisionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/DJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/HighScore$Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/HighScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/medium_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/meteorite_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/powerups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/UFO_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/big_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/crash_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/homebackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/laser_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/medium_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/meteorite_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/powerups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/scoreboard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/slime_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/resources/small_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/scoreboard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/slime_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/small_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/sound/Sound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/EndState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/GameState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/HomeState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/PauseSate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/PlaySate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/ScoreState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/ui/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/Unit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/UnitLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/laser/BigLaser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/laser/Laser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/laser/MediumLaser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/laser/SmallLaser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/obstacle/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/obstacle/Meteorite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/obstacle/Obstacle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/unit/obstacle/UFO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/LaserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/ObstacleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inputhandlers/InputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CollisionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/DJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/HighScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UFO_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/big_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/crash_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/homebackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/laser_sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/medium_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/meteorite_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/powerups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/scoreboard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/slime_obstacle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/small_laser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sound/Sound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/EndState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/HomeState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/PauseSate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/PlaySate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ScoreState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/Unit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/UnitLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/laser/BigLaser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/laser/Laser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/laser/MediumLaser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/laser/SmallLaser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Meteorite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/UFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlingtest/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <list id="22c3cf5b-605f-4aa4-b068-da9a8eb12163" name="Changes by kevin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +145,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gusta/Nextcloud/Nackademin Gustav/Github/Learning-Java/Submission Task 4&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ItsAme/Nextcloud/Nackademin Gustav/Github/Learning-Java/Fixed-shooter Game",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ItsAme\Nextcloud\Nackademin Gustav\Designmönster, analys och design\OOAD-Projektarbete\src\resources" />
@@ -116,6 +230,7 @@
       <workItem from="1671691783420" duration="40000" />
       <workItem from="1675153557469" duration="122000" />
       <workItem from="1677845122832" duration="149000" />
+      <workItem from="1677847096395" duration="404000" />
     </task>
     <servers />
   </component>

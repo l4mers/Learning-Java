@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="OOAD-Projektarbete" options="--add-modules java.desktop" />
+      <module name="Fixed-shooter Game" options="--add-modules java.desktop" />
     </option>
   </component>
 </project>
