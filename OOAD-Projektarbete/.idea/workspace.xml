@@ -1,212 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc7df3d0-f334-4b26-ac6a-944facdd9158" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Learning-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Learning-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/.idea/azure/azureSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/GUIGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/GUIGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/maps/map000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/maps/map000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/maps/map001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/maps/map001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/object_placement/objectlocation000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/object_placement/objectlocation000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/maps/map000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/maps/map000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/maps/map001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/maps/map001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/object_placement/objectlocation000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/out/production/GUIGame/resource/object_placement/objectlocation000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/entity/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/entity/ItemAsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/entity/ItemAsEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/entity/MobileKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/entity/MobileKnight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/foe/MobileRedSlime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/foe/MobileRedSlime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/BlueShield.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/BlueShield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/FineSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/FineSword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/Key.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/NormalSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/NormalSword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/items/WoodenShield.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/items/WoodenShield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/AssetDealer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/AssetDealer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/EventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/EventHitBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/EventHitBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/HitBoxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/HitBoxChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/InputHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/MounsePointHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/MounsePointHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/MouseInputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/MouseInputHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/MouseMotionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/MouseMotionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/Sound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/UtilityTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/UtilityTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/main/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/main/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Heart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Heart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Key.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Treasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/object/OBJ_Treasure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/resource/maps/map000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/resource/maps/map000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/resource/maps/map001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/resource/maps/map001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/resource/object_placement/objectlocation000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/resource/object_placement/objectlocation000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/world/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/world/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/world/WorldConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/world/WorldConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUIGame/src/world/WorldLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIGame/src/world/WorldLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OOAD-Projektarbete.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOAD-Projektarbete.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOAD-Projektarbete/main/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/LaserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/LaserFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/ObstacleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/ObstacleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputhandlers/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputhandlers/InputHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/CollisionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CollisionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/DJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/HighScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/HighScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sound/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sound/Sound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/EndState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/EndState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/GameState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/HomeState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/HomeState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/PauseSate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PauseSate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/PlaySate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PlaySate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/ScoreState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/ScoreState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/Unit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/UnitLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/UnitLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/laser/BigLaser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/laser/BigLaser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/laser/Laser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/laser/Laser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/laser/MediumLaser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/laser/MediumLaser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/laser/SmallLaser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/laser/SmallLaser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/obstacle/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Meteorite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/obstacle/Meteorite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/obstacle/Obstacle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit/obstacle/UFO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit/obstacle/UFO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/Submission Task 4 OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/Submission Task 4 OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/Submission Task 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/Submission Task 4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Geografi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Geografi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Historia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Historia.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Musik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Musik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Samhälle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Samhälle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Sport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Sport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Vetenskap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/categories/Vetenskap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/properties.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Geografi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Geografi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Historia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Historia.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Musik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Musik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Samhälle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Samhälle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Sport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Sport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Vetenskap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/categories/Vetenskap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/properties.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/users/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/resources/users/users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/users/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/out/production/Quiz-Inl-mning/users/users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/client/ClientProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/client/ClientProtocol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/client/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/client/GameFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/database/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/database/Guest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/database/QA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/database/QA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/database/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/database/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/gamepackage/GamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/gamepackage/GamePackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/gamepackage/Opponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/gamepackage/Opponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/properties/GameProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/properties/GameProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Geografi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Geografi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Historia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Historia.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Musik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Musik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Samhälle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Samhälle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Sport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Sport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Vetenskap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/categories/Vetenskap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/properties.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/resources/users/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/resources/users/users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/ChatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/ChatHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/LoginServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/LoginServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/PairWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/PairWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/ServerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/ServerListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/server/ServerProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/server/ServerProtocol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/src/utility/StaticImageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/src/utility/StaticImageHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission Task 4/test/PropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission Task 4/test/PropertiesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/azure/azureSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/Submission task 1 OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/Submission task 1 OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Cactus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Cactus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Carnivorous.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Carnivorous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Palm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Palm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/plantInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/plants/plantInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/src/program/Panel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 1 OOP/testing/plants/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 1 OOP/testing/plants/PlantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/azure/azureSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/Submission task 2 OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/Submission task 2 OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/out/production/Submission task 2 OOP/members/members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/out/production/Submission task 2 OOP/members/members.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/out/production/Submission task 2 OOP/resources/members/members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/out/production/Submission task 2 OOP/resources/members/members.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/out/test/Submission task 2 OOP/readDataToNewMember/member_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/out/test/Submission task 2 OOP/readDataToNewMember/member_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/src/members/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/src/members/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Panel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Receptionist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/src/program/Receptionist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/src/resources/members/members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/src/resources/members/members.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/test/memberActiveMembership/TestIfMemberIsActiveOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/test/memberActiveMembership/TestIfMemberIsActiveOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/test/readDataToNewMember/ReadDataToNewMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/test/readDataToNewMember/ReadDataToNewMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/test/readDataToNewMember/member_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/test/readDataToNewMember/member_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 2 OOP/test/writeDataToFile/WriteDataToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 2 OOP/test/writeDataToFile/WriteDataToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/azure/azureSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/Submission task 3 OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/Submission task 3 OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/resources/scoreboard/scoreboard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/out/production/Submission task 3 OOP/scoreboard/scoreboard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/ButtonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/ButtonHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GameMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GameMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/resources/scoreboard/scoreboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/resources/scoreboard/scoreboard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/scoreboard/Scoreboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/scoreboard/Scoreboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/sound/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/sound/Sound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/tiles/GameTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/tiles/GameTile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Submission task 3 OOP/src/tiles/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Submission task 3 OOP/src/tiles/TileManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../users/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../users/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../users/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../users/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../users/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/users/users/UsersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/users/users/UsersApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/users/users/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/users/users/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/users/users/controller/repository/MySqlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/users/users/controller/repository/MySqlRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/users/users/model/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/users/users/model/UserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/users/users/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/users/users/model/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../users/src/test/java/com/users/users/UsersApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/test/java/com/users/users/UsersApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc7df3d0-f334-4b26-ac6a-944facdd9158" name="Changes" comment="" />
     <list id="22c3cf5b-605f-4aa4-b068-da9a8eb12163" name="Changes by kevin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gusta/Nextcloud/Nackademin Gustav/Github/Learning-Java/Submission Task 4",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gusta/Nextcloud/Nackademin Gustav/Github/Learning-Java/Submission Task 4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ItsAme\Nextcloud\Nackademin Gustav\Designmönster, analys och design\OOAD-Projektarbete\src\resources" />
@@ -320,6 +115,7 @@
       <workItem from="1671631892010" duration="9407000" />
       <workItem from="1671691783420" duration="40000" />
       <workItem from="1675153557469" duration="122000" />
+      <workItem from="1677845122832" duration="149000" />
     </task>
     <servers />
   </component>
