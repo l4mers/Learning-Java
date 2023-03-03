@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6271baf9-3d28-4a4a-8a37-fb355af845f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/runConfigurations/Client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/Submission Task 4 OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/Submission Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Geografi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Historia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Musik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Samhälle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Sport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/categories/Vetenskap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/Guest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/boy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/girl1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/old1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/old2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/avatar/women1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/profile-pictures/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/images/score/score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/sound/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/out/production/Quiz-Inl-mning/resources/users/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/client/ClientProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/client/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/database/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/database/QA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/database/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/gamepackage/GamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/gamepackage/Opponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/properties/GameProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Geografi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Historia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Musik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Samhälle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Sport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/categories/Vetenskap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/Guest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/boy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/girl1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/old1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/old2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/avatar/women1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/profile-pictures/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/images/score/score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/sound/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/resources/users/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/ChatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/LoginServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/PairWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/server/ServerProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/src/utility/StaticImageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz Duel/test/PropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fixed-shooter Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fixed-shooter Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Client.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz-Inl-mning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz Duel/Quiz Duel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Submission Task 4 OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Submission Task 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Geografi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Historia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Musik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Samhälle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/categories/Vetenskap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/client/ClientProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/client/GameFrame$Chat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/client/GameFrame$Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/client/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/database/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/database/Guest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/database/QA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/database/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/gamepackage/GamePackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/gamepackage/Opponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/Guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/boy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/girl1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/man1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/old1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/old2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/avatar/women1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/profile-pictures/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/images/score/score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/properties.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/properties/GameProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Geografi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Historia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Musik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Samhälle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/categories/Vetenskap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/Guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/boy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/girl1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/man1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/old1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/old2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/avatar/women1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/profile-pictures/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/images/score/score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/properties.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/sound/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/resources/users/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/ChatHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/ChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/LoginServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/PairWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/ServerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/server/ServerProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/sound/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/users/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz-Inl-mning/utility/StaticImageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/ClientProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/Guest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/QA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamepackage/GamePackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamepackage/Opponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/properties/GameProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Geografi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Historia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Musik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Samhälle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/categories/Vetenskap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/Guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/boy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/girl1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/man1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/old1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/old2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/avatar/women1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/profile-pictures/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/score/score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/properties.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/sound/classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/users/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ChatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/LoginServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/PairWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ServerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ServerProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utility/StaticImageHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PropertiesTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hjh5dJIzpZzTsgarlgDFhnjU9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/Users/ItsAme/Nextcloud/Nackademin Gustav/Github/Learning-Java/Quiz Duel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ItsAme\Skola\Submission Task 4\src\resources\images\avatar" />
+      <recent name="C:\Users\ItsAme\Skola\Submission Task 4\src\resources\images\score" />
+      <recent name="C:\Users\ItsAme\Skola\Submission Task 4\src\resources\images\profilepictures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="483603a8-b0f6-46ed-b525-656dbce15d0a" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Database" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.Database" />
+      <module name="Submission Task 4 OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.LoginServer" />
+      <module name="Submission Task 4 OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Submission Task 4 OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.QA" />
+      <module name="Submission Task 4 OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerListener" />
+      <module name="Submission Task 4 OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Submission Task 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Submission Task 4" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.QA" />
+      <item itemvalue="Application.LoginServer" />
+      <item itemvalue="Application.Database" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ServerListener" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerListener" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.QA" />
+        <item itemvalue="Application.LoginServer" />
+        <item itemvalue="Application.Database" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6271baf9-3d28-4a4a-8a37-fb355af845f5" name="Changes" comment="" />
+      <created>1668804217935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668804217935</updated>
+      <workItem from="1668804219102" duration="5809000" />
+      <workItem from="1668811844497" duration="710000" />
+      <workItem from="1668822756025" duration="2035000" />
+      <workItem from="1668824970698" duration="14000" />
+      <workItem from="1668890276546" duration="22175000" />
+      <workItem from="1668971258782" duration="8338000" />
+      <workItem from="1668989588386" duration="113000" />
+      <workItem from="1669035738186" duration="4071000" />
+      <workItem from="1669040976616" duration="23071000" />
+      <workItem from="1669119304669" duration="33867000" />
+      <workItem from="1669198355286" duration="3994000" />
+      <workItem from="1669202996304" duration="320000" />
+      <workItem from="1669217310369" duration="3000" />
+      <workItem from="1669217344620" duration="114000" />
+      <workItem from="1669217531126" duration="4677000" />
+      <workItem from="1669222352438" duration="1094000" />
+      <workItem from="1669289720951" duration="7155000" />
+      <workItem from="1669299140865" duration="16597000" />
+      <workItem from="1669376753580" duration="12252000" />
+      <workItem from="1669402722113" duration="1013000" />
+      <workItem from="1669403777429" duration="85000" />
+      <workItem from="1669471621278" duration="33627000" />
+      <workItem from="1669522892547" duration="181000" />
+      <workItem from="1669556523636" duration="5000" />
+      <workItem from="1669556708991" duration="5501000" />
+      <workItem from="1669586300027" duration="8891000" />
+      <workItem from="1669598556249" duration="4171000" />
+      <workItem from="1669636507929" duration="13083000" />
+      <workItem from="1669657571512" duration="6014000" />
+      <workItem from="1669670958595" duration="2725000" />
+      <workItem from="1669742224279" duration="35000" />
+      <workItem from="1669743934977" duration="73000" />
+      <workItem from="1669744848576" duration="13231000" />
+      <workItem from="1669807275505" duration="8741000" />
+      <workItem from="1669825422167" duration="1669000" />
+      <workItem from="1669831150751" duration="658000" />
+      <workItem from="1669831878602" duration="262000" />
+      <workItem from="1669834063714" duration="4789000" />
+      <workItem from="1669841465429" duration="24000" />
+      <workItem from="1669842304409" duration="10000" />
+      <workItem from="1669842451002" duration="221000" />
+      <workItem from="1670239602725" duration="89000" />
+      <workItem from="1670239894466" duration="48000" />
+      <workItem from="1670239979664" duration="53000" />
+      <workItem from="1675153484404" duration="72000" />
+      <workItem from="1675153681404" duration="6190000" />
+      <workItem from="1675325674855" duration="22000" />
+      <workItem from="1675422278004" duration="79000" />
+      <workItem from="1675777962442" duration="22000" />
+      <workItem from="1677847890776" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
